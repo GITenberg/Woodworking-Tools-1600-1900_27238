@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32564'
     url: http://www.gutenberg.org/2009/agents/32564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27238#Woodworking-Tools-1600-1900
 gutenberg_bookshelf: Woodwork
 gutenberg_issued: '2008-11-12'
 gutenberg_type: Text
